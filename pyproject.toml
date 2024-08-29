@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "robotnewstests"
+version = "0.1.0"
+description = ""
+authors = ["Md Sakib Hossain Palash <sakib@wolftech.no>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+robotframework = "^7.0.1"
+robotframework-browser = "^18.8.0"
+robotframework-requests = "^0.9.7"
+nvm = "^1.0.21"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
