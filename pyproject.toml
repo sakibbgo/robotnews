@@ -16,4 +16,3 @@ nvm = "^1.0.21"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
